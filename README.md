@@ -9,7 +9,7 @@ Actively completing a 6-month Risk Management Cybersecurity bootcamp as well as 
   - [Microsoft Sentinel: Log Analytics](https://github.com/NemuelNyangaresi/Microsoft-Sentinel-Log-Analytics)
 
 
-<h2>Certifications</h2>
+<h2>📚 Certifications</h2>
 
 - [Comptia Security +](https://www.credly.com/badges/fd15e28a-a197-40d4-abc1-325b0fbc0daf/public_url)
 - [AWS Solutions Architect - Associate](https://www.credly.com/badges/fd15e28a-a197-40d4-abc1-325b0fbc0daf/public_url)
@@ -17,9 +17,9 @@ Actively completing a 6-month Risk Management Cybersecurity bootcamp as well as 
 - [Comptia A +](https://www.credly.com/badges/623cf52f-0d33-4808-ba2d-fca5c25eb3e8/public_url)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="NemuelNyangaresi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NemuelNyangaresi | LinkedIn" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/nemuel/
 
