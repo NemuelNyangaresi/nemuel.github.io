@@ -6,6 +6,7 @@ Actively completing a 6-month Risk Management Cybersecurity bootcamp as well as 
 
 <h2>👨‍💻 Security Projects:</h2>
 
+  - [Python Keylogger - Educational](https://github.com/NemuelNyangaresi/keylogger-python-educational)
   - [Microsoft Sentinel: Log Analytics](https://github.com/NemuelNyangaresi/Microsoft-Sentinel-Log-Analytics)
 
 
