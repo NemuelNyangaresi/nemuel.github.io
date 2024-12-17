@@ -7,8 +7,6 @@ Actively completing a 6-month Risk Management Cybersecurity bootcamp as well as 
 <h2>👨‍💻 Security Projects:</h2>
 
   - [Microsoft Sentinel: Log Analytics](https://github.com/NemuelNyangaresi/Microsoft-Sentinel-Log-Analytics)
-  - [Active Directory Home Lab](https://github.com/NemuelSereti/ActiveDirectoryLab)
-  - [Basic Keylogger with Python](https://github.com/NemuelSereti/KEYLOGGER)
 
 
 <h2>Certifications</h2>
